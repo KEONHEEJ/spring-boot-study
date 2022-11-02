@@ -1,11 +1,8 @@
 package study.boot.order;
 
 import study.boot.discount.DiscountPolicy;
-import study.boot.discount.FixDiscountPolicy;
-import study.boot.discount.RateDiscountPolicy;
 import study.boot.member.Member;
 import study.boot.member.MemberRepository;
-import study.boot.member.MemoryMemberRepository;
 
 public class OrderServiceImpl implements OrderService {
 
