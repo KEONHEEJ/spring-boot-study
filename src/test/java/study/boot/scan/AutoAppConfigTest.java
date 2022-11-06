@@ -5,9 +5,6 @@ import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import study.boot.AutoAppConfig;
-import study.boot.discount.DiscountPolicy;
-import study.boot.member.Grade;
-import study.boot.member.Member;
 import study.boot.member.MemberService;
 
 public class AutoAppConfigTest {
