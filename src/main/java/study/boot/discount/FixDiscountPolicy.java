@@ -1,6 +1,5 @@
 package study.boot.discount;
 
-import org.springframework.stereotype.Component;
 import study.boot.member.Grade;
 import study.boot.member.Member;
 
